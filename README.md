@@ -158,7 +158,7 @@ build/app/outputs/flutter-apk/app-release.apk
 
 | Light Mode                                       | Dark Mode                                      |
 | ------------------------------------------------ | ---------------------------------------------- |
-| ![Light Mode](assets/screenshots/light_mode.png) | ![Dark Mode](assets/screenshots/dark_mode.png) |
+| ![Light Mode](assets/screenshots/light_mode.jpg) | ![Dark Mode](assets/screenshots/dark_mode.jpg) |
 
 ---
 
